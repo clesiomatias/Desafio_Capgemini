@@ -52,7 +52,7 @@
 
 &nbsp;
 * Linguagem de programação Python
-![](./Python-512.png=100x)
+![](./Python-512.png)
 
 
 ## Instruções e requisitos
