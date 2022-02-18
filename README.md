@@ -30,7 +30,7 @@
 
 
 ## Desafio 3
->uas palavras podem ser consideradas anagramas de si mesmas se as letras de uma palavra podem ser realocadas para formar a outra palavra. Dada uma string qualquer, desenvolva um algoritmo que encontre o número de pares de substrings que são anagramas.
+>Duas palavras podem ser consideradas anagramas de si mesmas se as letras de uma palavra podem ser realocadas para formar a outra palavra. Dada uma string qualquer, desenvolva um algoritmo que encontre o número de pares de substrings que são anagramas.
 >Exemplo:
 >Exemplo 1)
 >Entrada:
@@ -49,25 +49,40 @@
 
 
 ## Tecnologias usadas
-*  ![Linguagem de programação Python](https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png)
+
+&nbsp;
+* Linguagem de programação Python
+![](./Python-512.png =100x)
 
 
 ## Instruções e requisitos
 #### O único requisito é ter a linguagem Python instalada e devidamente configurada no sistema
 
 **Usando Windows**
+
+&nbsp;
 Abra o diretório onde estão os arquivos de desafio no prompt de comando ou Shell.
 Digite:
+
+&nbsp;
  `python desafio(numero do desafio).py`
 
  **Usando o Linux**
+
+ &nbsp;
 Abra o diretório onde estão os arquivos de desafio no bash e digite:
+
+&nbsp;
 `python3 desafio(numero do desafio).py`
 
  **Usando o Mac**
+
+ &nbsp;
 Abra o diretório onde estão os arquivos de desafio no Terminal e digite:
+
+&nbsp;
 `python3 desafio(numero do desafio).py`
 
 
-
+&nbsp;
 ~Att.: Clésio Matias~
