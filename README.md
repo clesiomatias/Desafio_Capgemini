@@ -47,15 +47,12 @@
 >Explicação:
 >A lista de todos os anagramas pares são: [i, i], [q, q] e [ifa, fai] que estão nas posições [[0], [3]], [[8],  [9]] e [[0, 1, 2], [1, 2, 3]].
 
+## ✔️ Técnicas e tecnologias utilizadas
 
-## Tecnologias usadas
-
-&nbsp;
-* Linguagem de programação Python
-![](./Python-512.png)
+- ``Python3``
 
 
-## Instruções e requisitos
+## 📁 Instruções e requisitos
 #### O único requisito é ter a linguagem Python instalada e devidamente configurada no sistema
 
 **Usando Windows**
